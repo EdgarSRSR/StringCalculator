@@ -5,4 +5,4 @@ A calculator that makes operations from string inputs using the Shunting Yard Al
 калькулятор вычисляет его значение.
 
 чтобы добраться до файлов java:
-src -> res -> main
+app -> src -> res -> main
